@@ -16,7 +16,13 @@ phone: : 010 - 6437 - 5728
 <img alt="React" src ="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white"/><img alt="Spring Boot" src ="https://img.shields.io/badge/springboot-6DB33F.svg?&stle=for-the-badge&logo=springboot&logoColor=white"/><img alt="Figma" src ="https://img.shields.io/badge/figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
 
 
-
+자바 - 청록색
+자바 스크립트 - 노란색
+css - 보라색
+html- 주황색
+react - 하늘색
+spring boot - 연두색(얇음)
+피그마 - 주황색
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lys-17&show_icons=true&theme=radical&title_color=white)
