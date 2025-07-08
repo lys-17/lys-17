@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=skyblue,lightcyan,plum&height=280&section=header&text=Hello%20YeSeong's%20GitHub&fontColor=000000)
+![Welcome](https://img.shields.io/badge/Hello_YeSeong's_GitHub-Welcome!-a0e9ff?style=for-the-badge&logo=github&logoColor=black)
 
 
 
