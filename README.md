@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=#a1c4fd,#c2e9fb,#d4fc79&height=280&section=header&text=Hello%20YeSeong's%20GitHub)
+![header](https://capsule-render.vercel.app/api?type=waving&color=#b7f8db,#fdfdfe,#e0c3fc&height=280&section=header&text=Hello%20YeSeong's%20GitHub)
 
 
 ### About Me
