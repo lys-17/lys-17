@@ -1,34 +1,27 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=skyblue&height=280&section=header&text=Hello%20YeSeong's%20GitHub&fontColor=000000)
-
-
-
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20I'm%20Yeseong%20&fontSize=50)
 
 
 ### About Me
 계속해서 성장해 나아가는 개발자 이에성입니다. 
 
 E-mail : lkl10055@naver.com
+phone: : 010 - 6437 - 5728
+
+
+
+
+###SKILL
+<img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/><img alt="JavaScript" src ="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/><img alt="HTML" src ="https://img.shields.io/badge/css-663399.svg?&style=for-the-badge&logo=css&logoColor=white"/><img alt="CSS" src ="https://img.shields.io/badge/css-663399.svg?&style=for-the-badge&logo=css&logoColor=white"/><img alt="React" src ="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white"/><img alt="Spring Boot" src ="https://img.shields.io/badge/springboot-6DB33F.svg?&stle=for-the-badge&logo=springboot&logoColor=white"/><img alt="Figma" src ="https://img.shields.io/badge/figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
 
 
 
 
 
-### 기술스택
-
-## 
-<img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
-<img alt="JavaScript" src ="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
-<img alt="HTML" src ="https://img.shields.io/badge/css-663399.svg?&style=for-the-badge&logo=css&logoColor=white"/>
-<img alt="CSS" src ="https://img.shields.io/badge/css-663399.svg?&style=for-the-badge&logo=css&logoColor=white"/>
-<img alt="React" src ="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white"/>
-<img alt="Spring Boot" src ="https://img.shields.io/badge/springboot-6DB33F.svg?&stle=for-the-badge&logo=springboot&logoColor=white"/>
-<img alt="Figma" src ="https://img.shields.io/badge/figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lys-17&show_icons=true&theme=radical&title_color=white)
 
 
 
-<img alt="CSS" src ="https://img.shields.io/badge/css-663399.svg?&style=for-the-badge&logo=css&logoColor=white"/>
-sql
+
 
 
 
@@ -36,11 +29,14 @@ sql
 
 - 블로그, 이메일 연결 페이지
 - github stat
-- 어버웃 미( 이메일 주소 / )
+- 어버웃 미( 이메일 주소 / 폰 전번 )
 - 이젠 진짜 github 한번 뒤집어 엎어야함
 - 잔디 스트릭결국 올
 - 라이브러리
 - 프레임 워크
+
+
+
 
 
 
@@ -85,7 +81,7 @@ https://jjinueng.tistory.com/entry/Github-%EA%B9%83%ED%97%88%EB%B8%8C-%EB%A6%AC%
 
 https://velog.io/@oka1313/Github-%EA%B9%83%ED%97%88%EB%B8%8C-%ED%94%84%EB%A1%9C%ED%95%84-%EA%BE%B8%EB%AF%B8%EA%B8%B0
 
-
+https://go-code.tistory.com/2
 
 
 
