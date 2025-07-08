@@ -11,7 +11,7 @@ phone: : 010 - 6437 - 5728
 
 
 ### SKILL
-<img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/><img alt="JavaScript" src ="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/><img alt="HTML" src ="https://img.shields.io/badge/css-663399.svg?&style=for-the-badge&logo=css&logoColor=white"/><img alt="CSS" src ="https://img.shields.io/badge/css-663399.svg?&style=for-the-badge&logo=css&logoColor=white"/>
+<img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/><img alt="JavaScript" src ="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/><img alt="HTML" src ="https://img.shields.io/badge/css-663399.svg?&style=for-the-badge&logo=html&logoColor=white"/><img alt="CSS" src ="https://img.shields.io/badge/css-663399.svg?&style=for-the-badge&logo=css&logoColor=white"/>
 
 <img alt="React" src ="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white"/><img alt="Spring Boot" src ="https://img.shields.io/badge/springboot-6DB33F.svg?&stle=for-the-badge&logo=springboot&logoColor=white"/><img alt="Figma" src ="https://img.shields.io/badge/figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
 
