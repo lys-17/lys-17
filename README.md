@@ -1,5 +1,4 @@
-![Welcome]([https://img.shields.io/badge/Hello_YeSeong's_GitHub-Welcome!-a0e9ff?style=for-the-badge&logo=github&logoColor=black](https://capsule-render.vercel.app/api?type=waving&color=#a1c4fd,#c2e9fb,#d4fc79&height=280&section=header&text=Hello%20YeSeong's%20GitHub
-))
+![header](https://capsule-render.vercel.app/api?type=waving&color=skyblue,lightcyan,plum&height=280&section=header&text=Hello%20YeSeong's%20GitHub&fontColor=000000)
 
 
 
