@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hello%20YeSeong's%20GitHub%20)
+![header]([https://capsule-render.vercel.app/api?type=waving&color=skyblue&height=280&section=header&text=Hello%20YeSeong's%20GitHub%20](https://capsule-render.vercel.app/api?type=waving&color=purple,indigo,blue&height=280&section=header&text=Hello%20YeSeong's%20GitHub))
+
 
 ### About Me
 계속해서 성장해 나아가는 개발자 이에성입니다. 
