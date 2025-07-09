@@ -37,9 +37,6 @@
     </div>
     
 
-<img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=dark"/>
-
-
 
 
 
@@ -57,14 +54,12 @@
 
 
 - 블로그, 이메일 연결 페이지
-- github stat
 - 이젠 진짜 github 한번 뒤집어 엎어야함
 - 잔디 스트릭결국 올
 - 라이브러리
-- 프레임 워크
 - 아 리포지토리 하나 삭제
 - 기술 스택에서 spring boot 계속 깨짐
-- - 헬로 아임 뒤에 내이름 쓰기
+-  헬로 아임 뒤에 내이름 쓰기
 
 
 
