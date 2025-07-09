@@ -1,21 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20I'm%20Yeseong%20&fontSize=50)
 
 <div align= "center">
-### Contact Me
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Contact me </h2>
 </a>
          <a href=lkl10055@naver.com> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link= lkl10055@naver.com"> </a>
          <a href=lys-17> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=Notion&logoColor=white&link= lkl10055@naver.com"> </a>
-
-### E-Mail
-</a>
          <a href=mailto:lkl10055@naver.com> <img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lkl10055@naver.com"> </a>
 
+<h2 align="center"> E-Mail </h2>
+           <Strong> lkl10055@naver.com </Strong>
 
-
-<div align= "center"> <a href=https://티 스 토 리 주 소> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://티 스 토 리 주 소"> </a>
-         <a href=노 션 아 이 디> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link= 메 일 주 소"> </a>
-         <a href=mailto:메 일 주 소> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:메 일 주 소"> </a>
-          </div><br>
 
 
 
@@ -24,7 +18,6 @@
 
 
 
-phone: : 010 - 6437 - 5728
 
 
 
@@ -64,6 +57,52 @@ spring boot - 연두색(얇음)
 - 프레임 워크
 - 뭐 적을려고 했지
 - 아 리포지토리 하나 삭제
+
+
+
+
+
+
+
+
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e1ff,100:7900fa&height=180&text=Hello%20I'm&animation=fadeIn&fontColor=ffffff&fontSize=50" />
+    </div>
+    <div align= "center"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div> 
+    </div>
+    <div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
+          <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
+          <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+          <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+          <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+          <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+          </div>
+    </div>
+    <div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <div align= "center"> <a href=> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link="> </a>
+          </div>  <br> 
+    <div align= "center">  </div> 
+    </div>
+    <div align= "center"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=lys-17&bg_color=60,00c8fa,6600ff&title_color=ffffff&text_color=ffffff"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lys-17&layout=compact&bg_color=60,00c8fa,6600ff&title_color=ffffff&text_color=ffffff"
+           /> </div> 
+    </div>
+    
+
+
+
+
 
 
 
