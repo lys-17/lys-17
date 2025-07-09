@@ -58,13 +58,10 @@
 
 - 블로그, 이메일 연결 페이지
 - github stat
-- 기술
-- 어버웃 미( 이메일 주소 / 폰 전번 )
 - 이젠 진짜 github 한번 뒤집어 엎어야함
 - 잔디 스트릭결국 올
 - 라이브러리
 - 프레임 워크
-- 뭐 적을려고 했지
 - 아 리포지토리 하나 삭제
 
 
@@ -82,11 +79,3 @@ https://jjinueng.tistory.com/entry/Github-%EA%B9%83%ED%97%88%EB%B8%8C-%EB%A6%AC%
 https://velog.io/@oka1313/Github-%EA%B9%83%ED%97%88%EB%B8%8C-%ED%94%84%EB%A1%9C%ED%95%84-%EA%BE%B8%EB%AF%B8%EA%B8%B0
 
 https://go-code.tistory.com/2
-
-
-
-
-
-
-
-
