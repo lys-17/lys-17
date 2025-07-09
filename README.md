@@ -1,70 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20I'm%20Yeseong%20&fontSize=50)
-
-<div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Contact me </h2>
-</a>
-         <a href=lkl10055@naver.com> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link= lkl10055@naver.com"> </a>
-         <a href=lys-17> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=Notion&logoColor=white&link= lkl10055@naver.com"> </a>
-         <a href=mailto:lkl10055@naver.com> <img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lkl10055@naver.com"> </a>
-
-<h2 align="center"> E-Mail </h2>
-           <Strong> lkl10055@naver.com </Strong>
-
-
-
-
-</div><br>
-
-
-
-
-
-
-
-
-### SKILL
-<img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/><img alt="JavaScript" src ="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/><img alt="HTML" src ="https://img.shields.io/badge/css-663399.svg?&style=for-the-badge&logo=html&logoColor=white"/><img alt="CSS" src ="https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=css&logoColor=white"/>
-
-<img alt="React" src ="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white"/><img alt="Spring Boot" src ="https://img.shields.io/badge/springboot-6DB33F.svg?&stle=for-the-badge&logo=springboot&logoColor=white"/><img alt="Figma" src ="https://img.shields.io/badge/figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
-
-
-자바 - 청록색
-자바 스크립트 - 노란색
-css - 보라색
-html- 주황색
-react - 하늘색
-spring boot - 연두색(얇음)
-피그마 - 주황색
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lys-17&show_icons=true&theme=radical&title_color=white)
-
-
-
-
-
-
-
-
-
-- 블로그, 이메일 연결 페이지
-- github stat
-- 기술
-- 어버웃 미( 이메일 주소 / 폰 전번 )
-- 이젠 진짜 github 한번 뒤집어 엎어야함
-- 잔디 스트릭결국 올
-- 라이브러리
-- 프레임 워크
-- 뭐 적을려고 했지
-- 아 리포지토리 하나 삭제
-
-
-
-
-
-
-
-
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e1ff,100:7900fa&height=180&text=Hello%20I'm&animation=fadeIn&fontColor=ffffff&fontSize=50" />
     </div>
@@ -86,10 +19,14 @@ spring boot - 연두색(얇음)
           <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
           <br/><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
           </div>
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📧 E-Mail </h2> <br> 
+    <div style="margin: 0 auto; text-align: center;" align= "center">
+        <strong>lkl10055@naver.com</strong>
     </div>
+</div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link="> </a>
+    <div align= "center"> <a href=> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=lkl10055@naver.com">  </a>
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
@@ -119,20 +56,16 @@ spring boot - 연두색(얇음)
 
 
 
-## Hi there 👋
-<!--
-**lys-17/lys-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-dt
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for hel with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 블로그, 이메일 연결 페이지
+- github stat
+- 기술
+- 어버웃 미( 이메일 주소 / 폰 전번 )
+- 이젠 진짜 github 한번 뒤집어 엎어야함
+- 잔디 스트릭결국 올
+- 라이브러리
+- 프레임 워크
+- 뭐 적을려고 했지
+- 아 리포지토리 하나 삭제
 
 
 
