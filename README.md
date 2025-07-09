@@ -1,8 +1,23 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20I'm%20Yeseong%20&fontSize=50)
 
+<div align= "center">
+### Contact Me
+</a>
+         <a href=lkl10055> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link= lkl10055@naver.com"> </a>
+         <a href=lys-17> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=Notion&logoColor=white&link= lkl10055@naver.com"> </a>
 
-### About Me
-계속해서 성장해 나아가는 개발자 이에성입니다. 
+### E-Mail
+</a>
+         <a href=mailto:lkl10055@naver.com> <img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lkl10055@naver.com"> </a>
+          </div><br>
+
+
+
+
+
+
+
+naver-03C75A
 
 E-mail : lkl10055@naver.com
 phone: : 010 - 6437 - 5728
@@ -81,8 +96,6 @@ dt
 
 
 https://lyjduswls.tistory.com/17
-
-https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
 
 https://min-0.tistory.com/entry/Git-Github-Profile-%EA%B9%83%ED%97%88%EB%B8%8C-%EA%BE%B8%EB%AF%B8%EA%B8%B0-%EC%A4%84%EC%97%AC%EC%84%9C-%EA%B9%83%EA%BE%B8-%E3%85%8B%E3%85%8B
 
