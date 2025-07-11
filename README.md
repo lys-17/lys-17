@@ -1,12 +1,15 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e1ff,100:7900fa&height=180&text=Hello%20I'm%20Yeseong&animation=fadeIn&fontColor=ffffff&fontSize=50" />
     </div>
+<div align= "center">
+        <h2>ㅎ</h2>
+</div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div> 
     </div>
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks 🛠️ </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center">
     <h3>Frontend</h3>
           <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
@@ -29,19 +32,19 @@
           </div>
 
           
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📧 E-Mail </h2> <br> 
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📧 E-Mail 📧 </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center">
         <strong>lkl10055@naver.com</strong>
     </div>
 </div>
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💻 Contact me 💻 </h2> <br> 
     <div align= "center"> <a href=> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=lkl10055@naver.com">  </a>
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=lys-17&bg_color=60,00c8fa,6600ff&title_color=ffffff&text_color=ffffff"
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats 🏅 </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=lys-17&bg_color=60,00c8fa,6600ff&title_color=ffffff&text_color=ffffff"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lys-17&layout=compact&bg_color=60,00c8fa,6600ff&title_color=ffffff&text_color=ffffff"
            /> </div> 
     </div>
