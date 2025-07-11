@@ -32,7 +32,7 @@
 </div>
     <div align="center">
       <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">💻 Contact Me 💻</h2>
-      <a href="https://www.notion.so/lkl10055" target="_blank">--------------------이거 확인
+      <a href="https://www.notion.so/lkl10055" target="_blank">
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" alt="Notion" />
       </a>
       <a href="mailto:lkl10055@naver.com">
